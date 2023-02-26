@@ -12,5 +12,5 @@
 <img width="1291" alt="image" src="https://user-images.githubusercontent.com/77029232/221425203-1f9aac52-d4e3-4595-89ef-0f44a282b7d2.png">
 8. Create a Billing Alarm.
 9. Create a Budget.
-10. <img width="1291" alt="image" src="https://user-images.githubusercontent.com/77029232/221425266-9dc8e029-bc38-4d8e-9739-a0bb5b4c1b2f.png">
-11. Create organization and custom policy.
+<img width="1671" alt="image" src="https://user-images.githubusercontent.com/77029232/221425385-8a24130b-db07-4012-9f23-1689496b1c59.png">
+10. Create organization and custom policy.
